@@ -1,0 +1,6 @@
+Shortest paath -> BFS , Dijkastra , bellman ford , A*
+Negative Cycle -> Bellman Ford , Floyd warshall
+Strongly Connected Component -> Tarjan , Kosaraju
+Travelling Salesman -> Help-Karp;
+MST -> Kruskal , Prims , Borukva
+Network Flow -> Ford-Fulkerson , Edmons-karp , Dinic
